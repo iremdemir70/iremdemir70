@@ -1,6 +1,6 @@
 ## Hi, I'm İrem!
 
-- 🎓 Senior Computer Engineering student at Yaşar University (graduating June 2025)
+- 🎓 Graduated from Yaşar University, Department of Computer Engineering.
 - 🛠️ Part-time Software Engineer at Johnson Electric – building web apps with Angular & .NET
 - 💻 Passionate about full-stack development, REST APIs, and database design
 - 🎨 I enjoy solving problems, creating smooth user experiences, and exploring new technologies
