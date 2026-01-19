@@ -1,10 +1,39 @@
 ## Hi, I'm İrem!
 
-- 🎓 Graduated from Yaşar University, Department of Computer Engineering.
-- 🛠️ Part-time Software Engineer at Johnson Electric – building web apps with Angular & .NET
-- 💻 Passionate about full-stack development, REST APIs, and database design
-- 🎨 I enjoy solving problems, creating smooth user experiences, and exploring new technologies
-- 📍 Based in İzmir, Türkiye
+- 🎓 Computer Engineering graduate from Yaşar University
+- 🛠️ Former Part-time Software Engineer at Johnson Electric (≈1 year)
+  - Worked on enterprise web applications using Angular and .NET
+- 💻 Full-stack oriented developer with strong interest in:
+  -RESTful API design
+  -Scalable backend architectures
+  -Clean, maintainable code practices   
+- 🎨 Passionate about problem solving, smooth user experiences, and exploring modern software technologies
+- 📍 Based in Bayraklı, İzmir, Türkiye
+
+## Technical Skills
+
+-Languages & Frameworks
+  -C# / .NET (ASP.NET Core, .NET Web API)
+  -.NET MAUI (cross-platform mobile & desktop applications)
+-Frontend
+  -Angular (component-based architecture, services, state handling)
+  -React (hooks, component patterns)
+  -Vue.js
+  -Next.js (SSR, modern React workflows)
+-Backend & APIs
+  -RESTful API development
+  -Authentication & authorization flows
+  -Database-driven application design
+-Databases
+  -PostgreSQL (relational modeling, complex queries)
+  -MS SQL Server (enterprise-level relational databases)
+  -MongoDB (NoSQL, document-based data structures)
+-General
+  -Full-stack development mindset
+  -API–frontend integration
+  -Internal company digitalization projects
+  -Performance & UX-focused implementations
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-iremdemir-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iremdemi70@hotmail.com) 
